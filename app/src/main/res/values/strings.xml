@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MecanismoEficienteGPS</string>
+    <string name="title_activity_mapa">Map</string>
+    <string name="gps_is_not_enable">GPS não está habilitado</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
